@@ -21,4 +21,5 @@ public class EventTicketTier {
     private Double price;
     private Integer totalQuantity;
     private Integer availableQuantity;
+
 }
